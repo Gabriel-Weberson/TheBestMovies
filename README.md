@@ -1,4 +1,4 @@
 # TheBestMovies
 ---
 
-* Esse código realiza uma consulta em uma API de filmes, onde temos acesso a um arquivo JSON e conseguimos passear pelo arquivo e listar para o usuário os melhores 250 filmes de acordo com opiniões do público cinéfilo.
+* Este código realiza uma consulta em uma API de filmes, permitindo o acesso a um arquivo JSON que contém informações detalhadas. A partir desse arquivo, é possível navegar pelos dados e listar para o usuário os 250 melhores filmes, classificados com base nas opiniões do público cinéfilo.
